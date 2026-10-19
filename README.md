@@ -4,7 +4,7 @@ Staj sürecindeki görevleri **ekleyip, listeleyip, güncelleyip, silebildiğin*
 
 ![Ekran görüntüsü](docs/ekran-goruntusu.png)
 
-**Canlı demo:** [NETLIFY BAĞLANTISINI BURAYA EKLE]
+
 
 ## Özellikler
 
@@ -44,9 +44,4 @@ npm run build     # üretim derlemesi: dist/
 ```
 Node.js 18 veya üzeri gerekir.
 
-## Netlify'a yayınlama
 
-1. Projeyi GitHub'a yükle (public depo).
-2. [netlify.com](https://www.netlify.com) → **Add new site → Import an existing project** → GitHub'ı seç → depoyu seç.
-3. Build ayarları `netlify.toml` dosyasından otomatik okunur (`npm run build`, klasör `dist`). **Deploy** de.
-4. Oluşan adresi bu dosyadaki "Canlı demo" satırına ve teslim formuna ekle.
