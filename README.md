@@ -4,7 +4,7 @@ Staj sürecindeki görevleri **ekleyip, listeleyip, güncelleyip, silebildiğin*
 
 ![Ekran görüntüsü](docs/ekran-goruntusu.png)
 
-
+**Canlı demo:** (https://rad-mooncake-283029.netlify.app)
 
 ## Özellikler
 
